@@ -3,7 +3,7 @@ A network visualization and analysis on the twitter activity of 'Tweede Kamerled
 
 Starting as a small project with the aim to learn webscraping, twitter analysis and network visualization whilst visualizing some interesting information.
 
-![First Visualization](Visualize/TKnetwork1.png)
+![visualize](https://i.imgur.com/r7o6sB4.jpg)
 
 ## Lay-out of the project
 
