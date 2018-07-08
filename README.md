@@ -20,7 +20,7 @@ Main dependencies are common packages. The imports are all at the top of the .ip
 ## Urgent
 - Code works, but is very messy and needs to be improved to pep-8 standard
 - Include multiple forced and unforced network visualizations
-- Run network analyses (centrality, betweenness, etc.) and visualize those results
+- Run network analyses (centrality, betweenness, etc.) and visualize those results (partly done)
 
 ## Future
  - Improve structure of project files if project grows bigger
