@@ -14,7 +14,7 @@ Main dependencies are common packages. The imports are all at the top of the .ip
 - Webscraping to get twitter accounts is done using BeautifulSoup, requests and Selenium.
 - Twitter information is found using python-twitter
 - Data is formatted and analyzed using Pandas and networkx
-- Visualized using Gephi
+- Visualized using Gephi & Inkscaper
 
 # To-Do
 ## Urgent
