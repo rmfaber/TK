@@ -3,6 +3,8 @@ A network visualization and analysis on the twitter activity of 'Tweede Kamerled
 
 Starting as a small project with the aim to learn webscraping, twitter analysis and network visualization whilst visualizing some interesting information.
 
+![First Visualization](Visualize/TKnetwork1.png)
+
 ## Lay-out of the project
 
 The python code is found in Tweede Kamer Anonymised API.ipynb. For interaction with the twitter API private keys are needed, which (obviously) can't be published. All new development is thus first tested on a local directory. All data scraped from twitter can be found in Data/textfiles. Data/csv contains network data and information used in Gephi to visualize the network. Gephi project files and visualized output can be found in Visualizations.
