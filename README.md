@@ -3,7 +3,7 @@ A network visualization and analysis on the twitter activity of 'Tweede Kamerled
 
 Starting as a small project with the aim to learn webscraping, twitter analysis and network visualization whilst visualizing some interesting information.
 
-![visualize](https://i.imgur.com/r7o6sB4.jpg)
+![visualize](https://i.imgur.com/o7eZhEb.png)
 
 ## Lay-out of the project
 
@@ -14,13 +14,13 @@ Main dependencies are common packages. The imports are all at the top of the .ip
 - Webscraping to get twitter accounts is done using BeautifulSoup, requests and Selenium.
 - Twitter information is found using python-twitter
 - Data is formatted and analyzed using Pandas and networkx
-- Visualized using Gephi
+- Visualized using Gephi & Inkscaper
 
 # To-Do
 ## Urgent
 - Code works, but is very messy and needs to be improved to pep-8 standard
 - Include multiple forced and unforced network visualizations
-- Run network analyses (centrality, betweenness, etc.) and visualize those results
+- Run network analyses (centrality, betweenness, etc.) and visualize those results (partly done)
 
 ## Future
  - Improve structure of project files if project grows bigger
