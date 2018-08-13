@@ -30,4 +30,4 @@ Main dependencies are common packages. The imports are all at the top of the .ip
 
 Analysing a lot of tweets an unofficial party affiliation was used to categorize users. All users that could be categorized and the tweets between these users are visualised in a network graph. The following visualization is done in Gephi by applying the Fruchterman-Reingold algorithm.
 
-![visualize](https://i.imgur.com/BaOQzCd.jpg)
+![visualize](https://i.imgur.com/QMdZbKv.jpg)
